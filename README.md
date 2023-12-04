@@ -27,6 +27,7 @@ __Daily Summary__
 * All code is running on Scott's VM, using python. 
 * Decided project goals. 
 * Schedule the execution plan. 
+* overleaf re-writing project is `dphil_paper1_comm_version`
 
 __Daily Questions__
 * Q1. Conceptualization - shall i stick to conspiracy theory or switch to misinformation? (Scott Discussion on Nov 17, 2023)
@@ -37,7 +38,7 @@ __Daily Questions__
     * practice python coding skills, and use python to do data analysis instead of R, plz write reproducible with structural organization of codes, comments and datasets
     * practice more computational writing skills, and write a paper for PNAS
 * Q3. Execution Plan in Dec 2023
-    * literature review revision - redo the research questions, _Dec 4-5_
+    * literature review revision - rewrite intro, lr and research questions, _Dec 4-5_
     * data collection - how to best filtering target tweets, _Dec 6-12_
     * clustering - how to best clustering tweet strains or conspiracy claims - make sure the study unit (Dec 19-25)
     * survival analysis - this is your statistical lession for this project. (Dec 26-31)
