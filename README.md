@@ -2,9 +2,9 @@
 This is a working memo for tracking Calvin's DPhil project. And here is the daily summary.
 
 * [20231204](## 20231204)
-* [20231002](## 20231002 Data Collection)
+* [20231002](## 20231002)
 
-## 20231002 Data Collection
+## 20231002 
 [original tweet dataset](https://github.com/echen102/COVID-19-TweetIDs)
 What i would like to do is download self OR ask Liang to access CUHK VM again
 1. download data to my local laptop
@@ -31,7 +31,7 @@ __Daily Summary__
 __Daily Questions__
 * Q1. Conceptualization - shall i stick to conspiracy theory or switch to misinformation? (Scott Discussion on Nov 17, 2023)
     * Answer - stick to conspiracy theory, when preparing for PNAS, because (1) still misinformation, remaining the space to change when putting into the thesis (2) easier to argue the significance of the duration research (3) echo the findings in this paper [the spreading of misinformation online](https://www.pnas.org/doi/10.1073/pnas.1517441113#supplementary-materials). (4) save time and resources to re-collect data, more accuratly, to re-filter the data
-    >  For conspiracy-related content the lifetime increases with cascade size.
+    >  For conspiracy-related content the lifetime increases with cascade size (Vicario et al., 2016).
 * Q2. Project Goals
     * practice research data managaement skills, use small data truncks for code testing, and use big data for final analysis
     * practice python coding skills, and use python to do data analysis instead of R, plz write reproducible with structural organization of codes, comments and datasets
