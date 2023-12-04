@@ -1,8 +1,8 @@
 # Memo 
 This is a working memo for tracking Calvin's DPhil project. And here is the daily summary.
 
-* [20231204](## 20231204)
-* [20231002](## 20231002)
+* [20231204](##20231204)
+* [20231002](##20231002)
 
 ## 20231002 
 [original tweet dataset](https://github.com/echen102/COVID-19-TweetIDs)
