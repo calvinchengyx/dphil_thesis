@@ -1,8 +1,8 @@
 # Memo 
 This is a working memo for tracking Calvin's DPhil project. And here is the daily summary.
 
-* [20231204](##20231204)
 * [20231002](##20231002)
+* [20231204](##20231204)
 * [20231205](##20231205)
 
 ## 20231002 
@@ -57,7 +57,7 @@ __Daily Questions__
     2. `gpt-3.5-turbo 16k` model as comparison
         1. input token price - $0.001 / 1k tokens
         2. output token price - $0.002 / 1k tokens
-3. [token and language](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them))
+3. [token and language](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
     1. for English, 100 tokens = 75 words
     1. for Chinese, 100 tokens = 50 words (may need more tokens for Chinese, depending on the tokenization method, GPT-4 has about 2000 Chinese tokens)
 
