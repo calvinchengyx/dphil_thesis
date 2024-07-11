@@ -1,5 +1,6 @@
 import transformers
 import torch
+import accelerate
 
 def setup_pipeline(model_id):
     """Set up the text classification pipeline with specified model and precision."""
