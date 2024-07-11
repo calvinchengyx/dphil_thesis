@@ -20,7 +20,7 @@ def prepare_prompt(pipeline, messages):
     )
 
 # define the temperature to be more decisive
-def generate_text(pipeline, prompt, max_tokens=512, temperature=0.2, top_p=0.9):
+def generate_text(pipeline, prompt, temperature=0.2, top_p=0.9):
     """Generate text based on the given prompt."""
     terminators = [
         pipeline.tokenizer.eos_token_id,
@@ -28,7 +28,7 @@ def generate_text(pipeline, prompt, max_tokens=512, temperature=0.2, top_p=0.9):
     ]
     return pipeline(
         prompt,
-        max_new_tokens=max_tokens,
+        max_new_tokens=512,
         eos_token_id=terminators,
         do_sample=True,
         temperature=temperature,
