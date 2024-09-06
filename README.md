@@ -25,3 +25,9 @@ There are two levels of memo: central level and project level.
         - *Todo*: what I plan to do tomorrow
         - *Challenges*: any blockers I have encountered
 
+## Project Paths
+- Big Data Storage and Processing: OII-brains
+- Data Analysis: OII-Scott-server
+- Report and opensource: Github Repo with relevant codespace
+- Writing: overleaf
+
