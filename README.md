@@ -21,7 +21,7 @@ There are two levels of memo: central level and project level.
     - File path: `/workspaces/dphil_misinfo/project_memo`
     - Purpose: timely update of each paper's status
     - Content: 
-    - *Tasks Finished*: what I have done today
-    - *Todo*: what I plan to do tomorrow
-    - *Challenges*: any blockers I have encountered
+        - *Tasks Finished*: what I have done today
+        - *Todo*: what I plan to do tomorrow
+        - *Challenges*: any blockers I have encountered
 
