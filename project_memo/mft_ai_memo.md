@@ -74,6 +74,13 @@ Use Chinese as a non-English language example in the experiment
 
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
+
+### 2024-09-08
+- Done
+    - update the regular expression data cleaning code for llama3.1 results in `/data/scro4316/thesis/paper3/e3_model_report.ipynb`. 
+    - ✔️ update the results for chinese prompts for llama3.1 in scott's server. 
+
+
 ### 2024-09-06
 - Done
     - ✅report current results to Scott [updated 0831 report](https://github.com/calvinchengyx/llms_mft_multilingual/blob/main/report0831.ipynb)

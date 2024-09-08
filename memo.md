@@ -7,6 +7,10 @@ project specific updates are linked to each project's memo file.
 ## Content 
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-08
+- update mft_ai_memo.md 
+
+
 ### 2024-09-06 
 - Done
     - ✅ Created the central project mamegement repo on github [dphil_misinfo](https://github.com/calvinchengyx/dphil_misinfo)
