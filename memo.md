@@ -7,8 +7,13 @@ project specific updates are linked to each project's memo file.
 ## Content 
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
-### 2024-09-08
+### 2024-09-08 mft_ai
+- overleaf writing
+- fine-tune llama3.1 tutorial
+
+### 2024-09-08 mft_ai
 - update mft_ai_memo.md 
+- specify the repo for mft_ai project, use Scott's server for analysis from no on. And only use github codespace for project publishment (with results) and report writing. Will update on the scott's server for the results. 
 
 
 ### 2024-09-06 

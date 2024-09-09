@@ -75,11 +75,28 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+
+### 2024-09-09
+- notes
+    1. goal: want to fine-tune the llama3.1 with local language data with `simplifine` package
+        1. can not do it on oii-brains due to package conflicts `ImportError: cannot import name 'SentenceTransformerTrainingArguments' from 'sentence_transformers' (/home/scro4316/.local/lib/python3.10/site-packages/sentence_transformers/__init__.py)` highly likely is the python version
+        2. can not do it on scott's server due to python version `3.9.12`, the package requires `3.10.0` or higher
+        3. github codespace support it, though there will be limitations on storage and other stuff, and the documentation of the package is not clear, so i sent an email to Ali asking for help. 
+        4. meanwhile, i can explore fine-tune llama3.1-70b on oii-brain with other packages. started with [llama2 example](https://colab.research.google.com/drive/1ggaa2oRFphdBmqIjSEbnb_HGkcIRC2ZB?usp=sharing#scrollTo=ZgaKTaF7bmHg)
+            1. error - `from transformers import pipeline` - downgraded to `pip install transformers==4.34.1`, now it works on the oii-brain
+- done 
+    1. overleaf intro writing and related work section intro writing
+- todo
+    1. overleaf related work section 2 writing
+    2. overleaf experiment section writing
+ 
+
+    
+
 ### 2024-09-08
 - Done
     - update the regular expression data cleaning code for llama3.1 results in `/data/scro4316/thesis/paper3/e3_model_report.ipynb`. 
     - ✔️ update the results for chinese prompts for llama3.1 in scott's server. 
-
 
 ### 2024-09-06
 - Done
