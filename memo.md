@@ -8,6 +8,8 @@ project specific updates are linked to each project's memo file.
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
 ### 2024-09-10 mft_ai
+- overleaf writing - section dataset
+- code review - all benchmark and training datasets 
 
 ### 2024-09-09 mft_ai
 - overleaf writing - section related work - Machine Translation
