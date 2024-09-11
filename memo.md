@@ -7,6 +7,11 @@ project specific updates are linked to each project's memo file.
 ## Content 
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-10 mft_ai
+
+### 2024-09-09 mft_ai
+- overleaf writing - section related work - Machine Translation
+
 ### 2024-09-08 mft_ai
 - overleaf writing
 - fine-tune llama3.1 tutorial
