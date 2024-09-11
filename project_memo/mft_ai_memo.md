@@ -75,6 +75,12 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-10 
+- overleaf writing - section dataset
+- code review - all benchmark and training datasets.
+- todo
+      - overleaf experiment section writing - machine translation
+
 
 ### 2024-09-09
 - notes
