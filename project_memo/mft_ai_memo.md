@@ -75,12 +75,17 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-12
+- scott server
+    - start a new folder `paper_linked_final` to synchronize all coding files with the overleaf writing project
+    - checked all datasets and synchronized with the writing `section 3 Data`
+    - check experiment `machine learning` and generate results again. 
+
 ### 2024-09-10 
 - overleaf writing - section dataset
 - code review - all benchmark and training datasets.
 - todo
       - overleaf experiment section writing - machine translation
-
 
 ### 2024-09-09
 - notes
@@ -95,9 +100,6 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 - todo
     1. overleaf related work section 2 writing
     2. overleaf experiment section writing
- 
-
-    
 
 ### 2024-09-08
 - Done
