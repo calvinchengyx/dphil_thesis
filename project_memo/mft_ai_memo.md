@@ -79,7 +79,9 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 - scott server
     - start a new folder `paper_linked_final` to synchronize all coding files with the overleaf writing project
     - checked all datasets and synchronized with the writing `section 3 Data`
-    - check experiment `machine learning` and generate results again. 
+    - check experiment `machine training`
+        - added results from MoralStrength, with (1) lexicon result and (2) svm ML model + MoralStrength features result
+        - added results from MoralBert
 
 ### 2024-09-10 
 - overleaf writing - section dataset
