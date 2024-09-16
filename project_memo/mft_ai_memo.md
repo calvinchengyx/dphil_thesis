@@ -75,6 +75,22 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-16
+- frameaxis with cmfd2
+    -  updated cmfd2 with sentiment, as FrameAxis needs sentiment to compute the microframes, so sentiment can not be random, i used a bert model to assign sentiment to CMFD2
+    -  however, still only result in 14 out of 5k documents, trying to fix the bug
+    -  bug fixed, with all comments saved in the `e_tool_lexicon.ipynb` file
+    -  finished `cmfd2 frameaxis` experiment and result report - performance is super poor.
+- Todo
+    - re-train the new multilingual models with binary settings (instead of using a multi-factor classifier)
+    - 
+
+### 2024-09-15
+- frameaxis with cmfd2
+    -  updated the multilingual word embedding model, made the script run
+    -  however it only return limited data
+    -   
+
 ### 2024-09-12
 - scott server
     - start a new folder `paper_linked_final` to synchronize all coding files with the overleaf writing project
