@@ -80,11 +80,11 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
     - get the english annotated dataset ready in oii-brain
     - did the frameAxis with multilingual contextual embeddings - does not perform very well
     - have to re-do the word-embeding experiment, because `xml-multilingual` is a contextual embedding model which actually does not perform well for word embeddings. 
-        - (1) load multilingual word embedding model from [fastText](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
-        - (2) try simple similarity embedding methods as Josh
-        - (3) try the FrameAxis method. 
-        - The difference between them is how document similarity is decided: Josh, average all word embeddings in the doc and compared to the axis; FrameAxis, compare every word to the axis and average the doc. 
-    - 
+        - load multilingual word embedding model from [fastText](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+        - finished simple similarity embedding methods as Josh did with `fasttext`, did it in oii-brain
+        - finished frameaxis embedding with `fasttext`, did it in oii-brain. The difference between them is how document similarity is decided: Josh, average all word embeddings in the doc and compared to the axis; FrameAxis, compare every word to the axis and average the doc.
+        - decide to keep the `xml-multilingual` embedding result, but prob won't go into the main doc, it does not perform very well. technically speaking, it should, as it provide more contextual information in the document tokenization. 
+- next to do: replicate the best training strategy to train the multilingual mft model. 
 
 ### 2024-09-16
 - frameaxis with cmfd2
