@@ -75,6 +75,17 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-17
+- multilingual sentence embedding model training with english annotated data and local-lan labelled data
+    - get the english annotated dataset ready in oii-brain
+    - did the frameAxis with multilingual contextual embeddings - does not perform very well
+    - have to re-do the word-embeding experiment, because `xml-multilingual` is a contextual embedding model which actually does not perform well for word embeddings. 
+        - (1) load multilingual word embedding model from [fastText](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+        - (2) try simple similarity embedding methods as Josh
+        - (3) try the FrameAxis method. 
+        - The difference between them is how document similarity is decided: Josh, average all word embeddings in the doc and compared to the axis; FrameAxis, compare every word to the axis and average the doc. 
+    - 
+
 ### 2024-09-16
 - frameaxis with cmfd2
     -  updated cmfd2 with sentiment, as FrameAxis needs sentiment to compute the microframes, so sentiment can not be random, i used a bert model to assign sentiment to CMFD2
@@ -83,7 +94,6 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
     -  finished `cmfd2 frameaxis` experiment and result report - performance is super poor.
 - Todo
     - re-train the new multilingual models with binary settings (instead of using a multi-factor classifier)
-    - 
 
 ### 2024-09-15
 - frameaxis with cmfd2
