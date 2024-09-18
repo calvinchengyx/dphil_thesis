@@ -75,6 +75,10 @@ Use Chinese as a non-English language example in the experiment
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+
+### 2024-09-18
+- keep tracking the progress of base model training for each foundfation, `loyalty` and `sanctity` models are not trained yet. 
+
 ### 2024-09-17
 - multilingual sentence embedding model training with english annotated data and local-lan labelled data
     - get the english annotated dataset ready in oii-brain
@@ -84,7 +88,9 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
         - finished simple similarity embedding methods as Josh did with `fasttext`, did it in oii-brain
         - finished frameaxis embedding with `fasttext`, did it in oii-brain. The difference between them is how document similarity is decided: Josh, average all word embeddings in the doc and compared to the axis; FrameAxis, compare every word to the axis and average the doc.
         - decide to keep the `xml-multilingual` embedding result, but prob won't go into the main doc, it does not perform very well. technically speaking, it should, as it provide more contextual information in the document tokenization. 
-- next to do: replicate the best training strategy to train the multilingual mft model. 
+    - started training `xml-multilingual` model on 3 gpus on oii-server, `care`, `authority` and `fairness`. each task may take 20 hours-ish to train on a L40S GPU. damn - keep training, 
+    - the fine base models may take more than 1 day to train on. why it is so slow? last time for the multi-label model, with 1/3 less training data, it took about 2 hours to finish training. 
+    - then the batch training should be faster as i have batches. 
 
 ### 2024-09-16
 - frameaxis with cmfd2
