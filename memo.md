@@ -7,6 +7,10 @@ project specific updates are linked to each project's memo file.
 ## Content 
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-18 mft_ai + moral contagion writing
+- 2024-09-11 to 17, refer to mft-ai memo for progress, did a lot of coding work. and writing stopped at the `\subsubsection{LLT-Multilingual Language Models}`
+- keep writing moral congation paper
+
 ### 2024-09-10 mft_ai
 - overleaf writing - section dataset
 - code review - all benchmark and training datasets 
