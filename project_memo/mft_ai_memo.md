@@ -4,6 +4,16 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-20
+- damn, model inference does seem right, 0 accuracy on 5 out of 5 models, something must be wrong.
+- fuck, after 8 hours, it turns to be the training data column names - it is `label`, not `labels` in `xml_base.py` line 98, cao .
+- started re-train the model, start from `sanctity` base one, as it has the least working load. 
+      - did following 2 changes to be more conservative approach: (1) undersampled the majority class; (2) left 10% as in-sample test data to test first.
+  
+
+
+### 2024-09-19
+- finished all binary model training and inference, and batch training, yaay!!!!
 
 ### 2024-09-18
 - finished training `authority` and `fairness` base model
