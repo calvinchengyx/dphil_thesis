@@ -4,6 +4,18 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-24
+- redo the random guess baseline model for 3 benchmarking datasets
+- finish adding table results for machine translation, local dictionary, multilingual models and batch training graph, to the overleaf
+- add llms table to the google drive 
+
+### 2024-09-23
+nothing
+
+### 2024-09-22
+- finished training all xml base models and batch training models
+- add xml result to the scott's server. 
+
 ### 2024-09-20
 - damn, model inference does seem right, 0 accuracy on 5 out of 5 models, something must be wrong.
 - fuck, after 8 hours, it turns to be the training data column names - it is `label`, not `labels` in `xml_base.py` line 98, cao .
