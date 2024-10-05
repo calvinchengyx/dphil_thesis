@@ -4,6 +4,18 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-10-04/05
+- finetune llama3.1-8b
+  - Done
+    - successfully ran the unsloth whole process on the test data
+    - llama3.1 train with english data + english prompt
+    - llama3.1 train with english data + chinese prompt
+  - todo
+    - translate english training data to chinese with machine translation
+    - llama3.1 train with english data + translated chinese data + chinese prompt?
+    - llama3.1 train with english data + translated chinese data + local labelled batch data + chinese prompt?
+  
+
 ### 2024-09-24
 - redo the random guess baseline model for 3 benchmarking datasets
 - finish adding table results for machine translation, local dictionary, multilingual models and batch training graph, to the overleaf
