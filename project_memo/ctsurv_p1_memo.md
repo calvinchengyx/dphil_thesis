@@ -46,6 +46,12 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+# 20241007 review previous works 
+- decision made
+    - stop doing more data collection validation, use what you have at the moment to re-write the paper
+    - finish survival analysis code
+    - move all code to a new folder to manage on Scott's server
+    - will think about the conspiracy claim matching part later 
 
 # 20240812 
 - finished
