@@ -46,6 +46,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+# 20241008 very struggle
+- struggling with this research design
+    - lost interest in the unpublished mphil thesis
+    - don't know how to define the study unit
+        - previously just clustering - hierachical clustering, but no gurantee that study unit is relevant, and the "strain" definition does not make sense
+        - keyword topic - yes, works, fewer study units (80ish), this is more like a topic level study unit, many will never die, difficult to make sense of the survival analysis
+        - claim-matching? good approach, but can be totally different from what i have already done.
+
 # 20241007 review previous works 
 - decision made
     - stop doing more data collection validation, use what you have at the moment to re-write the paper
