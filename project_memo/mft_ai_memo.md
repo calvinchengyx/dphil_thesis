@@ -4,6 +4,15 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-10-08/09
+- finetune llama3.1-8b
+  - Done
+    - finished batch finetuning
+    - with more local language training data (50 record each batch, there are 20 batches), the llama3.1 performance is actually not better, but worse (wonder why)
+      - try trained with 200 record, same results.
+  - todo
+    - write up the result and experiment details 
+
 ### 2024-10-04/05
 - finetune llama3.1-8b
   - Done
