@@ -13,6 +13,12 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
     - data section
     - approach evaluation section
     - result: machine translation
+- todo
+    - result section
+    - discussion section
+    - abstract
+    - figures - any way to make some goog figures???
+    - tables double check 
 
 ### 2024-10-08/09
 - finetune llama3.1-8b
