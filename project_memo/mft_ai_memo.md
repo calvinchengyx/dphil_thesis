@@ -8,7 +8,11 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 ### 2024-10-10/11
 - revise the document
     - changed where Scott left remarks
-    - add more details in the data section for each benchmarking dataset. 
+    - add more details in the data section for each benchmarking dataset.
+- finish writing
+    - data section
+    - approach evaluation section
+    - result: machine translation
 
 ### 2024-10-08/09
 - finetune llama3.1-8b
