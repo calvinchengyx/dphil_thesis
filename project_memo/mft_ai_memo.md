@@ -12,9 +12,9 @@ markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 - finish writing
     - data section
     - approach evaluation section
-    - result: machine translation
+    - result: machine translation, local dictionary
 - todo
-    - result section
+    - result section: xlm, llama3.1
     - discussion section
     - abstract
     - figures - any way to make some goog figures???
