@@ -4,6 +4,11 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-10-14
+- have to double check all llama3.1 results in oii-brains, there must be some regular expression errors. because for the `ft-none-en` model, the model coverage is better than fine-tuned models. 
+- todo
+    - update the llama3.1 performance table
+    - write discussion section
 
 ### 2024-10-10/11
 - revise the document
