@@ -4,6 +4,15 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-10-15
+- done
+    - updated llama3.1-8b performance table
+    - re-running llama3.1-70b model and llama3.2-1b and -3b model
+    - format the all table   
+- todo
+    - discussion section writing
+    
+ 
 ### 2024-10-14
 - have to double check all llama3.1 results in oii-brains, there must be some regular expression errors. because for the `ft-none-en` model, the model coverage is better than fine-tuned models. 
 - todo
