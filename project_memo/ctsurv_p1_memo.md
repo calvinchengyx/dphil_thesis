@@ -45,6 +45,8 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 [^3]: The working document for this step is _keywords_0116.md_, saved at folder: Oxford OneDrive - thesis - paper 1 
 
 ----------
+# 20241015 an idea
+for the survival paper, since i have threads, why dont i just cluster threads with dorian's methods and study the life CT threads?
 
 # 20241008 very struggle
 - struggling with this research design
