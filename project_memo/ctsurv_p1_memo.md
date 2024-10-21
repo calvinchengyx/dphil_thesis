@@ -46,6 +46,12 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+# 20241021
+- finished
+    - decided to use bertopic to sub-cluster the result of each keyword match claim clusters - we have 29 clusters need to be further trimed.
+    - the next question is a matter of computation power, `HDBSCAN` can not be ran on GPU, but other steps, embedding, UMAP, overall process can.
+    - scott's server is down, i can not do more today, will do it tomorrow - work out the Bertopic pipeline to provide a reference for next step clustering. 
+
 # 20241016 
 \hl{priority - finish this paper first, and pulish to a preprint - new media and society}
 only update the cluster chapter
