@@ -46,6 +46,13 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+# 20241023
+- finished
+    - construction of claim level clustering
+    - construction of topic/narrative level clustering
+    - don't have time to inspect yet, but let's call it end here. next will proceed to analysis and paper writing
+
+
 # 20241021
 - finished
     - decided to use bertopic to sub-cluster the result of each keyword match claim clusters - we have 29 clusters need to be further trimed.
