@@ -45,6 +45,12 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 [^3]: The working document for this step is _keywords_0116.md_, saved at folder: Oxford OneDrive - thesis - paper 1 
 
 ----------
+# 20241028 todo
+- construct moral foundation var according to research needs
+- construct posting history var according to research needs. 
+
+# 20241027
+finished writing methods all. 
 
 # 20241023
 - finished
