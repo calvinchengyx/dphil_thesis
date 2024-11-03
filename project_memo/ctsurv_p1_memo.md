@@ -45,6 +45,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 [^3]: The working document for this step is _keywords_0116.md_, saved at folder: Oxford OneDrive - thesis - paper 1 
 
 ----------
+
+# 20241103
+for the past week, i finished all variable calculation and survival analysis code, just need to test the survival analysis results and decide to use one. 
+todo 
+    - test survival analysis in R and run results
+    - put results into words on Overleaf
+
+
 # 20241028
 - done
     - redo bertopic clustering, making sure it is the umberalla cluster of annoy cluster. 
