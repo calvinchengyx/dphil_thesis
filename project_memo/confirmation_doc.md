@@ -11,6 +11,18 @@
 
 # writing logs
 
+## 20241118 reflection
+- about time management: start writing earlier - start writing as soon as the project is decided, and budget at least 1 week, ideally 2 weeks for revision (just writing)
+- about writing:
+  - always use simple words if you can
+  - start writing as early as you can
+  - leave 2 weeks for revision
+  - leave 2 weeks for incorportating others feedback, ask at least two peers for writing feedback
+
+## 20241116-17 final revision
+- revise the pdf format, abstracts (preamble, two independent abstracts)
+- refine RQs and get it ready for submission
+
 ## 20241115 admin
 - training analysis form completed
 - assessor form complete - send to scott for signiture
