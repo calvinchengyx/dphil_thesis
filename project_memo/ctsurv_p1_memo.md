@@ -46,6 +46,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+
+# 20241118 
+- submitted the confirmation version for feedback.
+- emailed Dorian, asking for his interests in participation.
+- emailed Hai, asking for his advice on this publication - want him to be invovled to provide some feedback as well
+- publication and further revision?
+
+
 # 20241103
 for the past week, i finished all variable calculation and survival analysis code, just need to test the survival analysis results and decide to use one. 
 todo 
