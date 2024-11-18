@@ -12,7 +12,7 @@ project specific updates are linked to each project's memo file.
 | Literature Review|✅ |❌  |❌  |✅   |
 | Data Collection | ✅ | ✅ | ❌ | ✅ |
 | Methods Finalization | ✅ | ✔️ | ✔️ | ✅ |
-| Data Analysis | ✅ |  ✅ |  ✔️  |  ✅ |
+| Data Analysis | ✅ | ❌  |  ✔️  |  ✅ |
 | Results |  ✅ |  ❌| ❌ |  ✅ |
 | Tables & Figures | ✅ | ❌ |❌  |  ✅ |
 | Writing |✅ | ❌ | ❌ |  ✅| 
