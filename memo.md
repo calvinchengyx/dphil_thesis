@@ -4,7 +4,26 @@
 **Daily** update on project progress, including both thesis and other projects.
 project specific updates are linked to each project's memo file. 
 
-## Content 
+## Empirical Chapter Progress Check
+| Stage   | CT survival | CT mutation | Misinfo mutation | LLMs mft measurement | 
+|--------|-------------|-------------|-------|----------|
+| Research Design | ✅ |  ✔️ | ✔️ | ✅ |
+| RQs| ✅ | ✅ |✅  |  ✅|  
+| Literature Review|✅ |❌  |❌  |✅   |
+| Data Collection | ✅ | ✅ | ❌ | ✅ |
+| Methods Finalization | ✅ | ✔️ | ✔️ | ✅ |
+| Data Analysis | ✅ |  ✅ |  ✔️  |  ✅ |
+| Results |  ✅ |  ❌| ❌ |  ✅ |
+| Tables & Figures | ✅ | ❌ |❌  |   |
+| Writing |✅ | ❌ | ❌ |  | 
+| Revision | ✅ |❌  | ❌ |  |
+| Journal selection | PNAS✅ | ❌ | ❌ | ICWSM  ✅|
+| Journal format prep | ✔️ |❌  | ❌ |  ✔️|
+| Archive submission | ❌ |❌  | ❌ | ❌ |
+| Peer-review |❌  |❌  | ❌ | ❌ |
+| Peer-review revision | ❌ | ❌ | ❌ | ❌ |
+| Published | ❌ | ❌ |  ❌| ❌ |
+
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
 ### 2024-09-25 to 2024-11-18  Confirmation
