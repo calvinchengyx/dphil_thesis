@@ -14,10 +14,10 @@ project specific updates are linked to each project's memo file.
 | Methods Finalization | ✅ | ✔️ | ✔️ | ✅ |
 | Data Analysis | ✅ |  ✅ |  ✔️  |  ✅ |
 | Results |  ✅ |  ❌| ❌ |  ✅ |
-| Tables & Figures | ✅ | ❌ |❌  |   |
-| Writing |✅ | ❌ | ❌ |  | 
-| Revision | ✅ |❌  | ❌ |  |
-| Journal selection | PNAS✅ | ❌ | ❌ | ICWSM  ✅|
+| Tables & Figures | ✅ | ❌ |❌  |  ✅ |
+| Writing |✅ | ❌ | ❌ |  ✅| 
+| Revision | ✅ |❌  | ❌ | ✅ |
+| Journal selection | ✅PNAS | ❌ | ❌ | ✅ICWSM  |
 | Journal format prep | ✔️ |❌  | ❌ |  ✔️|
 | Archive submission | ❌ |❌  | ❌ | ❌ |
 | Peer-review |❌  |❌  | ❌ | ❌ |
