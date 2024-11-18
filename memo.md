@@ -7,6 +7,10 @@ project specific updates are linked to each project's memo file.
 ## Content 
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+### 2024-09-25 to 2024-11-18  Confirmation
+Confirmation document writing and preparation
+confirmation document submitted on Nov 18, 2024. 
+
 ### 2024-09-24
 - 19-21, mft-ai
 - 22-24, moral contagion writing
