@@ -11,7 +11,7 @@
 
 # writing logs
 
-## 20241118 reflection
+## 20241118 Confirmation submitted & reflection
 - about time management: start writing earlier - start writing as soon as the project is decided, and budget at least 1 week, ideally 2 weeks for revision (just writing)
 - about writing:
   - always use simple words if you can
