@@ -4,6 +4,15 @@
 ## Project Memo
 markers: ✅ done; ✔️ ongoing, ❌ not yet; ❓ to-be further discussed
 
+
+### 2024-11-25
+- done
+    - ICWSM manuscript revision, finished until `Local language dictionaries`
+    - slides `thesis overview` for dphil seminar this week
+- todo
+    - ICWSM manuscript revision, the rest
+    - slides the rest 
+
 ### 2024-10-15
 - done
     - updated llama3.1-8b performance table
