@@ -46,6 +46,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 
+# 20241219 
+- confirmation passed
+- sent linda user profile data and ask for robust check
+- change the political ideology to a continuous variable and check the results again - also be a robust check (check extremity, and refer to [Mohsen's nature paper](https://www.nature.com/articles/s41586-024-07942-8#Sec9)
+- received feedback from Hai, next step is to proofread and format the paper to NHB format.
+    - main
+    - results
+    - discussion
 
 # 20241118 
 - submitted the confirmation version for feedback.
