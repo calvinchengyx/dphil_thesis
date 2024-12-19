@@ -1,6 +1,6 @@
 # Memo 
 This is a working memo for tracking Calvin's DPhil project. And here is the daily summary.
-
+<!---
 ## General ToDo list (20240115 updated)
 > Legends for tracking the progress of tasks [^1]
 > * Work scheduled: &#10066;
@@ -45,6 +45,7 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 [^3]: The working document for this step is _keywords_0116.md_, saved at folder: Oxford OneDrive - thesis - paper 1 
 
 ----------
+--->
 
 # 20241219 
 - confirmation passed
