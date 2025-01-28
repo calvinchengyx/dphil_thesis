@@ -20,7 +20,7 @@
   - RQ1.2.2 `CoxTimeVaryingFitter()` the convergence issue, error message: hessian or gradient contains nan or inf value(s). - fixed
   - so, RQ1 all done so far.
 
-> RQ1 mutation conclusion: within the same language, content mutation will contribute to longer CT claim lifespan. However, this is should be interpret with caution. 
+> RQ1 mutation conclusion: within the same language, content mutation will contribute to longer CT claim lifespan. This effect is more sailent in smaller threads than bigger ones. 
 
 ## 20250107 - strategy thinking
 done
