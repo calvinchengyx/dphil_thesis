@@ -17,8 +17,10 @@
   - RQ1.1 with all KM test
   - RQ1.2.1 cox model with mutataion as a non-time-variant variable, less informative but okay
   - RQ1.2.2 `CoxTimeVaryingFitter()` data format
-- todo
-  - RQ1.2.2 `CoxTimeVaryingFitter()` the convergence issue, error message: hessian or gradient contains nan or inf value(s).
+  - RQ1.2.2 `CoxTimeVaryingFitter()` the convergence issue, error message: hessian or gradient contains nan or inf value(s). - fixed
+  - so, RQ1 all done so far.
+
+> RQ1 mutation conclusion: within the same language, content mutation will contribute to longer CT claim lifespan. However, this is should be interpret with caution. 
 
 ## 20250107 - strategy thinking
 done
