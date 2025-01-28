@@ -12,6 +12,14 @@
 
 # writing logs
 
+## 20250128 - RQ1
+- done
+  - RQ1.1 with all KM test
+  - RQ1.2.1 cox model with mutataion as a non-time-variant variable, less informative but okay
+  - RQ1.2.2 `CoxTimeVaryingFitter()` data format
+- todo
+  - RQ1.2.2 `CoxTimeVaryingFitter()` the convergence issue, error message: hessian or gradient contains nan or inf value(s).
+
 ## 20250107 - strategy thinking
 done
 - finished testing [fenestra](https://github.com/Roychowdhury-group/FENESTRA-Fake-News-Structure-and-Threat-Assessment) code from Tanghilini's team.
