@@ -47,6 +47,17 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250128 confirm robust check tasks
+- check 1. survival analysis more details
+- check 2. bots detection - botometer & linda's work
+- check 3. political ideo - change to continous variable
+- check 4. moral contagion - change to dictionary methods
+- check 5. monological - identify controary CT narratives (TBD)
+
+- new timeline
+    - robust check finish - Feb 20
+    - submission to NHB - Feb 28
+
 # 20241219 
 - confirmation passed
 - sent linda user profile data and ask for robust check
