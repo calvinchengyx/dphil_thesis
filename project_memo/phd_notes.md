@@ -24,3 +24,17 @@ _This is a notebook tracking my thoughts during PhD on the topic: what if i supe
 
 # Papers and collaboration
 - 
+
+# Social Media
+- how to use social media for academic career - linkedin, bluesky, Twitter
+- why you use social media
+- how long should you spend time on social media
+
+# team work and time management
+- junior start with replicating a senior's work - replication, learn the coding habit, for code review preparation, this is for learning, in the first year,
+  - for the first year, the priority is to learn: phd time management, classes, how to use social media, how to find research topics, talk to people, networking
+  - in the group work, provide discussion, provide code review work
+- from the second year, join research groups, take lead on at least one of research projects, hopefully your thesis paper
+- from the third year, start applying for internships, fellowships, and exchange programs, build your portfolio,
+- from the fourth year, start job hunting.
+- graduate on the fifth year
