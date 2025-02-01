@@ -55,6 +55,7 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
             - option A. if the time interval between tweets is beyond X days, (X is self-defined) 30 days, 45 days, 60 days, you need to do a sensitivity test
             - option B. simply remove those clusters (e.g., interval > 30 days, duration / cluster size)
             - option C. count the users impact - for long-lasting CTs, they should be from different users? remove the noise of single user repeat themselves?
+            - decision: chose A, and upgrade the event defintion - include both interval and last tweet to define: event is defined by first time we did not observe that tweet for over 30 days; otherwise, it is defined by the last observed tweet. This applied to both thread and claim clusters. The basic assumptions is impact - if the CT is not discussed for a month, we assume it is not significant impactful anymore. However, this definition will neglect the re-emergence pattern. If this CT thread re-emerge after 30 days, then yeah, our data won't capture this, we will further address this in the mutation chapter. 
 
 # 20250128 confirm robust check tasks
 - check 1. survival analysis more details
