@@ -47,6 +47,15 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250201 replication and robust check
+- bugs and solution
+    - sig level regarding cluster size? decision: remove this filter. check the relationship between duration and cluster size to control the effect
+    - long-lived clusters - i noticed for thread and claim clusters, there are many very long-lived clusters (>=3 years) only have or 3 tweets, which is noise, obviously
+        - options  - add a control when defining the death
+            - option A. if the time interval between tweets is beyond X days, (X is self-defined) 30 days, 45 days, 60 days, you need to do a sensitivity test
+            - option B. simply remove those clusters (e.g., interval > 30 days, duration / cluster size)
+            - option C. count the users impact - for long-lasting CTs, they should be from different users? remove the noise of single user repeat themselves?
+
 # 20250128 confirm robust check tasks
 - check 1. survival analysis more details
 - check 2. bots detection - botometer & linda's work
