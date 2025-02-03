@@ -47,6 +47,16 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250203
+- finished
+    - all code in KM model and cluster sections
+- todo
+    - write on overleaf to update the KM model analysis section
+    - re-run political ideo part cox model
+    - re-run moral foundaiton part cox model
+    - re-run monological belief part cox model
+    - rewrite the ovearleaf document
+
 # 20250201 replication and robust check
 - bugs and solution
     - sig level regarding cluster size? decision: remove this filter. check the relationship between duration and cluster size to control the effect
