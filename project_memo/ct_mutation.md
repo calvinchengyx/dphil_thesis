@@ -12,6 +12,16 @@
 
 # writing logs
 
+## 20250205 - RQ2
+- done
+  - decide to buy LIWC22 for lexcion level mutation
+  - understand how spacy work for svo extraction with a tutorial
+- todo
+  - for s-v-o extraction tasks, try three options with your `texts` sample (N=30) data
+    - option A. spacy with open-sourced llms - this is a limitation with SpaCy integration llms, for opensourced ones on huggingface, it only support limited models until June 2024, tried `dolly-v2-3b`, worked even worse than the basic spacy model
+    - option B. run latested LLMs without SpaCy, let's try llama3.1, with prompt engineering, GPT-4 returns pretty good results
+    - option C. spaCy without llms - run its trained English model - do this as a baseline (basically i am comparing two models) 
+
 ## 20250128 - RQ1
 - done
   - RQ1.1 with all KM test
