@@ -47,6 +47,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250211
+- finished
+    - RQ1 descriptive analysis all results and writing
+    - RQ2.1 political ideo KM model
+    - fixed a bug regarding the tweets with the same timestamp, which violate the cox model format, I added 0.1s to them to differenitate, keeping all tweets info without dropping them because dropping them may affect the performance of time-varying analysis (basically meaning we only account for one tweet at that moment, which does not capture the truth. 
+- todo
+    - RQ2.2 political ideo cox model   
+
 # 20250203
 - finished
     - all code in KM model and cluster sections
