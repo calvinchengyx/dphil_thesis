@@ -46,6 +46,11 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 --->
+# 20250213 
+- finished
+    - RQ2 political ideo cox model, main results
+- todo
+    - cox base model calculation: base1, no covariates; and base2, with only control co-variates
 
 # 20250211
 - finished
