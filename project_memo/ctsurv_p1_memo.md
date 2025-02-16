@@ -46,6 +46,15 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 
 ----------
 --->
+
+# 20250216
+- finished
+    - all robust check and code writing
+    - bots detection for all users
+- todo
+    - handle co-variates distribution and VIF test - that simple noramlization is not the best case, user_activity, user_age_d are super all left skewed, and bot_prob is a bit left-skewed as well. considering `log(x - min(x) + 1) ` log transmission?
+    - re-run all the robust check code again to confirm the results
+
 # 20250213 
 - finished
     - RQ2 political ideo cox model, main results
