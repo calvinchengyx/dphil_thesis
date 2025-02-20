@@ -47,6 +47,15 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250220
+- finished
+    - all cox model running and calculation
+- Todo
+    - report box plot for cox models - need to sort out (1) y axle label and (2) y axle label order (Thu)
+    - report the full table for cox models, together with the box plots, in the appendix (Thu)
+    - finish writing overleaf (Sun-Mon)
+
+
 # 20250216
 - finished
     - all robust check and code writing
