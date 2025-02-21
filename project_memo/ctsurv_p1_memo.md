@@ -50,6 +50,9 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 # 20250220
 - finished
     - all cox model running and calculation
+    - update all box plots
+    - for mformer and roberta emotion, changed the threshold from 0.80 to 0.50 as it is a binary classification task
+    - delete control var `cluster_size` because it is too correlated with `retweet count` (-0.51)
 - Todo
     - report box plot for cox models - need to sort out (1) y axle label and (2) y axle label order (Thu)
     - report the full table for cox models, together with the box plots, in the appendix (Thu)
