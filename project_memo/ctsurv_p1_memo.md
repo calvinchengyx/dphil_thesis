@@ -47,6 +47,14 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250228 code review
+- spotted two bugs on define_event() function in `surv_rq0.ipynb`
+    - first is groub_by and apply the function on the same dataset, when doing this subsequentially on the same long_form, thread and claim event will be affected by each other because of the drop_row command in the function
+        - solution, apply the function independently to the long_form dataset, and then merge them back - DONE
+    - second is nar_event definition, for some reason, they are all missing values at the moment after changing the define_event() function
+         - temporary solution: create two functions for thread/claim and nar seperetely. This nar issue won't affect paper1's focal var test, only partially rq1 result, will address it later; and my paper 2 does not deal with nar events at all, won't be a big issue.  
+
+
 # 20250220
 - finished
     - all cox model running and calculation
