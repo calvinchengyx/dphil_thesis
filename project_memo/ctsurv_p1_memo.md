@@ -47,6 +47,18 @@ This is a working memo for tracking Calvin's DPhil project. And here is the dail
 ----------
 --->
 
+# 20250306 Endless testing, writing, so fedup with this already
+Todo list
+1. re-run all survival testing - for the main and results
+2. beatify the plots, by significance, focal var
+3. add ph assumption check for focal var, and residual plots
+4. add time-interaction var for focal variables and run the fitter again, mark the time-varying coefficient and original one, arguing the PH violation is negligible, in appendix
+5. add model fit comparison table for each study (3 in total)
+6. check the Bonferroni correction 
+7. proofread the content 
+8. submission in two weeks
+
+
 # 20250228 code review
 - spotted two bugs on define_event() function in `surv_rq0.ipynb`
     - first is groub_by and apply the function on the same dataset, when doing this subsequentially on the same long_form, thread and claim event will be affected by each other because of the drop_row command in the function
