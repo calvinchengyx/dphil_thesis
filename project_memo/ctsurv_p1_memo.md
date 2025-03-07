@@ -55,8 +55,9 @@ Todo list
 4. add time-interaction var for focal variables and run the fitter again, mark the time-varying coefficient and original one, arguing the PH violation is negligible, in appendix
 5. add model fit comparison table for each study (3 in total)
 6. check the Bonferroni correction 
-7. proofread the content 
-8. submission in two weeks
+7. proofread the content
+8. plots - [survival plots](https://www.science.org/doi/10.1126/sciadv.adf9365, [heatmaps](https://www.nature.com/articles/sdata2017151)
+9. submission before March 14
 
 
 # 20250228 code review
