@@ -12,6 +12,12 @@
 
 # writing logs
 
+## 20250311 - mutation unit
+Dorian made a brilliant point regarding claim-change measurement. the current approach is i used claim ids to estimate the thread lifespan. but, the potential risk is, so retweet per se does not change the content, content only change when it is a reply or quote, and when someone reply/quote the tweet, it almost guarantees the content change; also, it adds a timestamp to the thread, guranteed the extended lifespan of the tweet. that is, the two factors "claim change" and "thread lifespan" are determinsitc to some extent? is that correct? 
+
+my current approach regarding the method is to use a cox time-varying model, `shift` the metadata of the tweet, that is the end time of each interval is the tweet original timestamp, the start time is last post's time. the death of a thread is defined as the no retweet/reply/quote for 30 days. 
+
+
 ## 20250205 - RQ2
 - done
   - decide to buy LIWC22 for lexcion level mutation
