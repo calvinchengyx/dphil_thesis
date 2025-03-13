@@ -13,7 +13,7 @@
 # writing logs
 
 ## 20250313 - stick to the plan
-after talking to dorian a couple of times, I was planning to do the mutation on the semantic level, not the thread level, because, the thread level mutation, is simple just replies and quotes. not the narrative, but that's okay! stop adding extra work to the thesis. Use the narrative flow/mutation in the next paper, not this one, just stick to the thread level longitudinal analysis. stick to the research plan, be determined, anchor yourself here
+after talking to dorian a couple of times, I was planning to do the mutation on the semantic level, not the thread level, because, the thread level mutation, is simple just replies and quotes. not the narrative, but that's okay! stop adding extra work to the thesis. Use the narrative flow/mutation in the next paper, not this one, just stick to the thread level longitudinal analysis. stick to the research plan, be determined, anchor yourself here. Next tasks is to finalize the research plan plot, draw it out. 
 
 ## 20250311 - mutation unit
 Dorian made a brilliant point regarding claim-change measurement. the current approach is i used claim ids to estimate the thread lifespan. but, the potential risk is, so retweet per se does not change the content, content only change when it is a reply or quote, and when someone reply/quote the tweet, it almost guarantees the content change; also, it adds a timestamp to the thread, guranteed the extended lifespan of the tweet. that is, the two factors "claim change" and "thread lifespan" are determinsitc to some extent? is that correct? 
